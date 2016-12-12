@@ -1,0 +1,4371 @@
+[
+    {
+        "outputFile": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 44,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 48,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 40,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 54,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 62,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 75,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 61,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 72,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 77,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 80,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 60,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 74,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 75,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 76,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 77,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 69,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 70,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 60,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 61,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 76,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 77,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 105,
+                    "endOffset": 1620
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1625,
+                    "endColumn": 105,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 78,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endColumn": 79,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endColumn": 56,
+                    "endOffset": 1942
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1947,
+                    "endColumn": 57,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endColumn": 73,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 74,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endColumn": 64,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 65,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 66,
+                    "endOffset": 2347
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2352,
+                    "endColumn": 67,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2420,
+                    "endColumn": 103,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 105,
+                    "endOffset": 2625
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2630,
+                    "endColumn": 79,
+                    "endOffset": 2705
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2710,
+                    "endColumn": 80,
+                    "endOffset": 2786
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2791,
+                    "endColumn": 58,
+                    "endOffset": 2845
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2850,
+                    "endColumn": 58,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 58,
+                    "endOffset": 2963
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2968,
+                    "endColumn": 58,
+                    "endOffset": 3022
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3027,
+                    "endColumn": 58,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 62,
+                    "endOffset": 3144
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3149,
+                    "endColumn": 63,
+                    "endOffset": 3208
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3213,
+                    "endColumn": 57,
+                    "endOffset": 3266
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3271,
+                    "endColumn": 58,
+                    "endOffset": 3325
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3330,
+                    "endColumn": 70,
+                    "endOffset": 3396
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3401,
+                    "endColumn": 71,
+                    "endOffset": 3468
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3473,
+                    "endColumn": 71,
+                    "endOffset": 3540
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3545,
+                    "endColumn": 72,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 56,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3675,
+                    "endColumn": 57,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endColumn": 72,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endColumn": 73,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 73,
+                    "endOffset": 3949
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3954,
+                    "endColumn": 74,
+                    "endOffset": 4024
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4029,
+                    "endColumn": 69,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endColumn": 70,
+                    "endOffset": 4165
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 17366,
+                    "endColumn": 69,
+                    "endOffset": 17431
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 17436,
+                    "endColumn": 69,
+                    "endOffset": 17501
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 17506,
+                    "endColumn": 76,
+                    "endOffset": 17578
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 17583,
+                    "endColumn": 63,
+                    "endOffset": 17642
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 17647,
+                    "endColumn": 64,
+                    "endOffset": 17707
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 17712,
+                    "endColumn": 68,
+                    "endOffset": 17776
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 17781,
+                    "endColumn": 76,
+                    "endOffset": 17853
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 17858,
+                    "endColumn": 74,
+                    "endOffset": 17928
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 17933,
+                    "endColumn": 68,
+                    "endOffset": 17997
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 18002,
+                    "endColumn": 67,
+                    "endOffset": 18065
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 18070,
+                    "endColumn": 76,
+                    "endOffset": 18142
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 18147,
+                    "endColumn": 58,
+                    "endOffset": 18201
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 18206,
+                    "endColumn": 56,
+                    "endOffset": 18258
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 18263,
+                    "endColumn": 58,
+                    "endOffset": 18317
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 18322,
+                    "endColumn": 59,
+                    "endOffset": 18377
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 18382,
+                    "endColumn": 65,
+                    "endOffset": 18443
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 18448,
+                    "endColumn": 66,
+                    "endOffset": 18510
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 18515,
+                    "endColumn": 57,
+                    "endOffset": 18568
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 18573,
+                    "endColumn": 64,
+                    "endOffset": 18633
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 18638,
+                    "endColumn": 63,
+                    "endOffset": 18697
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 18702,
+                    "endColumn": 60,
+                    "endOffset": 18758
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 18763,
+                    "endColumn": 60,
+                    "endOffset": 18819
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 18824,
+                    "endColumn": 60,
+                    "endOffset": 18880
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 18885,
+                    "endColumn": 61,
+                    "endOffset": 18942
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 18947,
+                    "endColumn": 63,
+                    "endOffset": 19006
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 19011,
+                    "endColumn": 63,
+                    "endOffset": 19070
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 19075,
+                    "endColumn": 63,
+                    "endOffset": 19134
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 19139,
+                    "endColumn": 64,
+                    "endOffset": 19199
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 19204,
+                    "endColumn": 62,
+                    "endOffset": 19262
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 19267,
+                    "endColumn": 59,
+                    "endOffset": 19322
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 19327,
+                    "endColumn": 60,
+                    "endOffset": 19383
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 19388,
+                    "endColumn": 58,
+                    "endOffset": 19442
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 19447,
+                    "endColumn": 59,
+                    "endOffset": 19502
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 19507,
+                    "endColumn": 61,
+                    "endOffset": 19564
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 19569,
+                    "endColumn": 70,
+                    "endOffset": 19635
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 19640,
+                    "endColumn": 59,
+                    "endOffset": 19695
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 19700,
+                    "endColumn": 67,
+                    "endOffset": 19763
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 19768,
+                    "endColumn": 57,
+                    "endOffset": 19821
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 19826,
+                    "endColumn": 55,
+                    "endOffset": 19877
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 19882,
+                    "endColumn": 66,
+                    "endOffset": 19944
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 19949,
+                    "endColumn": 67,
+                    "endOffset": 20012
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 20017,
+                    "endColumn": 67,
+                    "endOffset": 20080
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 20085,
+                    "endColumn": 67,
+                    "endOffset": 20148
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 20153,
+                    "endColumn": 85,
+                    "endOffset": 20234
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 20239,
+                    "endColumn": 86,
+                    "endOffset": 20321
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 20326,
+                    "endColumn": 56,
+                    "endOffset": 20378
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 20383,
+                    "endColumn": 47,
+                    "endOffset": 20426
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 20431,
+                    "endColumn": 48,
+                    "endOffset": 20475
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 20480,
+                    "endColumn": 50,
+                    "endOffset": 20526
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 20531,
+                    "endColumn": 33,
+                    "endOffset": 20560
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 20565,
+                    "endColumn": 46,
+                    "endOffset": 20607
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 20612,
+                    "endColumn": 48,
+                    "endOffset": 20656
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 20661,
+                    "endColumn": 45,
+                    "endOffset": 20702
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 20707,
+                    "endColumn": 31,
+                    "endOffset": 20734
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 20739,
+                    "endColumn": 54,
+                    "endOffset": 20789
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 20794,
+                    "endColumn": 73,
+                    "endOffset": 20863
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 20868,
+                    "endColumn": 77,
+                    "endOffset": 20941
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 20946,
+                    "endColumn": 92,
+                    "endOffset": 21034
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 21039,
+                    "endColumn": 69,
+                    "endOffset": 21104
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 21109,
+                    "endColumn": 77,
+                    "endOffset": 21182
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 21187,
+                    "endColumn": 53,
+                    "endOffset": 21236
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 21241,
+                    "endColumn": 69,
+                    "endOffset": 21306
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 21311,
+                    "endColumn": 84,
+                    "endOffset": 21391
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 21396,
+                    "endColumn": 72,
+                    "endOffset": 21464
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 21469,
+                    "endColumn": 73,
+                    "endOffset": 21538
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 21543,
+                    "endColumn": 68,
+                    "endOffset": 21607
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 21612,
+                    "endColumn": 74,
+                    "endOffset": 21682
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 21687,
+                    "endColumn": 73,
+                    "endOffset": 21756
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 21761,
+                    "endColumn": 73,
+                    "endOffset": 21830
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 21835,
+                    "endColumn": 88,
+                    "endOffset": 21919
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 21924,
+                    "endColumn": 69,
+                    "endOffset": 21989
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 21994,
+                    "endColumn": 46,
+                    "endOffset": 22036
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 22041,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 22513
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 22518,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 22735
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 22740,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 22957
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 22962,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 23225
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 23230,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 23452
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 23457,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 23682
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 23687,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 23912
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 23917,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 24142
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 24147,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 24372
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 24377,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 24599
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 24604,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 24838
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 24843,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 25064
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 25069,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 25309
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 25314,
+                    "endColumn": 117,
+                    "endOffset": 25427
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 25432,
+                    "endColumn": 117,
+                    "endOffset": 25545
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 25550,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 25775
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 25780,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 26023
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 26028,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 26242
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 26247,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 26525
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 26530,
+                    "endLine": 234,
+                    "endColumn": 12,
+                    "endOffset": 26733
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 26738,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 26864
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 26869,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 27091
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 27096,
+                    "endLine": 245,
+                    "endColumn": 12,
+                    "endOffset": 27337
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 27342,
+                    "endLine": 249,
+                    "endColumn": 12,
+                    "endOffset": 27562
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 27567,
+                    "endLine": 253,
+                    "endColumn": 12,
+                    "endOffset": 27811
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 27816,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 28032
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 28037,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 28277
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 28282,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 28572
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 28577,
+                    "endLine": 269,
+                    "endColumn": 12,
+                    "endOffset": 28794
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 28799,
+                    "endLine": 272,
+                    "endColumn": 12,
+                    "endOffset": 29032
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 29037,
+                    "endLine": 275,
+                    "endColumn": 12,
+                    "endOffset": 29246
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 29251,
+                    "endLine": 278,
+                    "endColumn": 12,
+                    "endOffset": 29476
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 29481,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 29699
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 29704,
+                    "endLine": 284,
+                    "endColumn": 12,
+                    "endOffset": 29914
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 29919,
+                    "endLine": 287,
+                    "endColumn": 12,
+                    "endOffset": 30122
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 30127,
+                    "endColumn": 111,
+                    "endOffset": 30234
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 30239,
+                    "endColumn": 111,
+                    "endOffset": 30346
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 30351,
+                    "endColumn": 104,
+                    "endOffset": 30451
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 30456,
+                    "endLine": 293,
+                    "endColumn": 12,
+                    "endOffset": 30665
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 30670,
+                    "endColumn": 133,
+                    "endOffset": 30799
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 30804,
+                    "endColumn": 127,
+                    "endOffset": 30927
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 30932,
+                    "endColumn": 73,
+                    "endOffset": 31001
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 31006,
+                    "endLine": 300,
+                    "endColumn": 12,
+                    "endOffset": 31254
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 31259,
+                    "endColumn": 87,
+                    "endOffset": 31342
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 31347,
+                    "endLine": 307,
+                    "endColumn": 12,
+                    "endOffset": 31744
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 31749,
+                    "endColumn": 81,
+                    "endOffset": 31826
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 31831,
+                    "endColumn": 85,
+                    "endOffset": 31912
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 31917,
+                    "endLine": 319,
+                    "endColumn": 12,
+                    "endOffset": 32528
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 32533,
+                    "endColumn": 90,
+                    "endOffset": 32619
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 32624,
+                    "endLine": 326,
+                    "endColumn": 12,
+                    "endOffset": 33027
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 33032,
+                    "endColumn": 93,
+                    "endOffset": 33121
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 33126,
+                    "endColumn": 57,
+                    "endOffset": 33179
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 33184,
+                    "endLine": 331,
+                    "endColumn": 12,
+                    "endOffset": 33327
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 33332,
+                    "endLine": 364,
+                    "endColumn": 12,
+                    "endOffset": 35820
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 35825,
+                    "endLine": 367,
+                    "endColumn": 12,
+                    "endOffset": 35973
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 35978,
+                    "endLine": 399,
+                    "endColumn": 12,
+                    "endOffset": 38578
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 38583,
+                    "endLine": 498,
+                    "endColumn": 12,
+                    "endOffset": 45321
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 45326,
+                    "endLine": 594,
+                    "endColumn": 12,
+                    "endOffset": 51943
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 51948,
+                    "endLine": 693,
+                    "endColumn": 12,
+                    "endOffset": 58782
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 694,
+                    "startColumn": 4,
+                    "startOffset": 58787,
+                    "endLine": 708,
+                    "endColumn": 12,
+                    "endOffset": 59721
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 709,
+                    "startColumn": 4,
+                    "startOffset": 59726,
+                    "endLine": 713,
+                    "endColumn": 12,
+                    "endOffset": 59977
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 714,
+                    "startColumn": 4,
+                    "startOffset": 59982,
+                    "endLine": 718,
+                    "endColumn": 12,
+                    "endOffset": 60213
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 719,
+                    "startColumn": 4,
+                    "startOffset": 60218,
+                    "endLine": 728,
+                    "endColumn": 12,
+                    "endOffset": 60760
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 60765,
+                    "endLine": 737,
+                    "endColumn": 12,
+                    "endOffset": 61254
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 738,
+                    "startColumn": 4,
+                    "startOffset": 61259,
+                    "endLine": 748,
+                    "endColumn": 12,
+                    "endOffset": 61927
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 749,
+                    "startColumn": 4,
+                    "startOffset": 61932,
+                    "endLine": 751,
+                    "endColumn": 12,
+                    "endOffset": 62092
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 752,
+                    "startColumn": 4,
+                    "startOffset": 62097,
+                    "endLine": 758,
+                    "endColumn": 12,
+                    "endOffset": 62620
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 759,
+                    "startColumn": 4,
+                    "startOffset": 62625,
+                    "endLine": 766,
+                    "endColumn": 12,
+                    "endOffset": 63184
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 767,
+                    "startColumn": 4,
+                    "startOffset": 63189,
+                    "endLine": 773,
+                    "endColumn": 12,
+                    "endOffset": 63558
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 774,
+                    "startColumn": 4,
+                    "startOffset": 63563,
+                    "endLine": 778,
+                    "endColumn": 12,
+                    "endOffset": 63928
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 779,
+                    "startColumn": 4,
+                    "startOffset": 63933,
+                    "endLine": 785,
+                    "endColumn": 12,
+                    "endOffset": 64419
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 786,
+                    "startColumn": 4,
+                    "startOffset": 64424,
+                    "endLine": 795,
+                    "endColumn": 12,
+                    "endOffset": 64896
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 796,
+                    "startColumn": 4,
+                    "startOffset": 64901,
+                    "endLine": 801,
+                    "endColumn": 12,
+                    "endOffset": 65249
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 802,
+                    "startColumn": 4,
+                    "startOffset": 65254,
+                    "endLine": 806,
+                    "endColumn": 12,
+                    "endOffset": 65576
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 807,
+                    "startColumn": 4,
+                    "startOffset": 65581,
+                    "endLine": 810,
+                    "endColumn": 12,
+                    "endOffset": 65882
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 811,
+                    "startColumn": 4,
+                    "startOffset": 65887,
+                    "endLine": 815,
+                    "endColumn": 12,
+                    "endOffset": 66144
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 816,
+                    "startColumn": 4,
+                    "startOffset": 66149,
+                    "endColumn": 112,
+                    "endOffset": 66257
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 817,
+                    "startColumn": 4,
+                    "startOffset": 66262,
+                    "endColumn": 114,
+                    "endOffset": 66372
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 818,
+                    "startColumn": 4,
+                    "startOffset": 66377,
+                    "endLine": 820,
+                    "endColumn": 12,
+                    "endOffset": 66611
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 821,
+                    "startColumn": 4,
+                    "startOffset": 66616,
+                    "endLine": 823,
+                    "endColumn": 12,
+                    "endOffset": 66822
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 824,
+                    "startColumn": 4,
+                    "startOffset": 66827,
+                    "endLine": 826,
+                    "endColumn": 12,
+                    "endOffset": 67039
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 827,
+                    "startColumn": 4,
+                    "startOffset": 67044,
+                    "endLine": 829,
+                    "endColumn": 12,
+                    "endOffset": 67257
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 830,
+                    "startColumn": 4,
+                    "startOffset": 67262,
+                    "endColumn": 106,
+                    "endOffset": 67364
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 831,
+                    "startColumn": 4,
+                    "startOffset": 67369,
+                    "endLine": 834,
+                    "endColumn": 12,
+                    "endOffset": 67557
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 835,
+                    "startColumn": 4,
+                    "startOffset": 67562,
+                    "endLine": 841,
+                    "endColumn": 12,
+                    "endOffset": 68012
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 842,
+                    "startColumn": 4,
+                    "startOffset": 68017,
+                    "endLine": 845,
+                    "endColumn": 12,
+                    "endOffset": 68252
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 846,
+                    "startColumn": 4,
+                    "startOffset": 68257,
+                    "endLine": 849,
+                    "endColumn": 12,
+                    "endOffset": 68511
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 850,
+                    "startColumn": 4,
+                    "startOffset": 68516,
+                    "endColumn": 100,
+                    "endOffset": 68612
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 851,
+                    "startColumn": 4,
+                    "startOffset": 68617,
+                    "endLine": 854,
+                    "endColumn": 12,
+                    "endOffset": 68799
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 855,
+                    "startColumn": 4,
+                    "startOffset": 68804,
+                    "endColumn": 89,
+                    "endOffset": 68889
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 856,
+                    "startColumn": 4,
+                    "startOffset": 68894,
+                    "endLine": 861,
+                    "endColumn": 12,
+                    "endOffset": 69333
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 862,
+                    "startColumn": 4,
+                    "startOffset": 69338,
+                    "endColumn": 111,
+                    "endOffset": 69445
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 863,
+                    "startColumn": 4,
+                    "startOffset": 69450,
+                    "endLine": 873,
+                    "endColumn": 12,
+                    "endOffset": 70250
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 874,
+                    "startColumn": 4,
+                    "startOffset": 70255,
+                    "endLine": 878,
+                    "endColumn": 12,
+                    "endOffset": 70580
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 879,
+                    "startColumn": 4,
+                    "startOffset": 70585,
+                    "endLine": 892,
+                    "endColumn": 12,
+                    "endOffset": 71499
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 893,
+                    "startColumn": 4,
+                    "startOffset": 71504,
+                    "endLine": 902,
+                    "endColumn": 12,
+                    "endOffset": 72165
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 903,
+                    "startColumn": 4,
+                    "startOffset": 72170,
+                    "endLine": 907,
+                    "endColumn": 12,
+                    "endOffset": 72450
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 908,
+                    "startColumn": 4,
+                    "startOffset": 72455,
+                    "endLine": 910,
+                    "endColumn": 12,
+                    "endOffset": 72591
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 86,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 911,
+                    "startColumn": 4,
+                    "startOffset": 72596,
+                    "endLine": 951,
+                    "endColumn": 12,
+                    "endOffset": 75770
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 952,
+                    "startColumn": 4,
+                    "startOffset": 75775,
+                    "endLine": 992,
+                    "endColumn": 12,
+                    "endOffset": 78963
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 993,
+                    "startColumn": 4,
+                    "startOffset": 78968,
+                    "endLine": 1034,
+                    "endColumn": 12,
+                    "endOffset": 82282
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1035,
+                    "startColumn": 4,
+                    "startOffset": 82287,
+                    "endColumn": 86,
+                    "endOffset": 82369
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1036,
+                    "startColumn": 4,
+                    "startOffset": 82374,
+                    "endLine": 1039,
+                    "endColumn": 12,
+                    "endOffset": 82598
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1040,
+                    "startColumn": 4,
+                    "startOffset": 82603,
+                    "endLine": 1043,
+                    "endColumn": 12,
+                    "endOffset": 82847
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1044,
+                    "startColumn": 4,
+                    "startOffset": 82852,
+                    "endLine": 1047,
+                    "endColumn": 12,
+                    "endOffset": 83088
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1048,
+                    "startColumn": 4,
+                    "startOffset": 83093,
+                    "endLine": 1050,
+                    "endColumn": 12,
+                    "endOffset": 83240
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1051,
+                    "startColumn": 4,
+                    "startOffset": 83245,
+                    "endLine": 1053,
+                    "endColumn": 12,
+                    "endOffset": 83411
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1054,
+                    "startColumn": 4,
+                    "startOffset": 83416,
+                    "endLine": 1056,
+                    "endColumn": 12,
+                    "endOffset": 83578
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1057,
+                    "startColumn": 4,
+                    "startOffset": 83583,
+                    "endLine": 1060,
+                    "endColumn": 12,
+                    "endOffset": 83821
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1061,
+                    "startColumn": 4,
+                    "startOffset": 83826,
+                    "endLine": 1063,
+                    "endColumn": 12,
+                    "endOffset": 83991
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1064,
+                    "startColumn": 4,
+                    "startOffset": 83996,
+                    "endLine": 1066,
+                    "endColumn": 12,
+                    "endOffset": 84164
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1067,
+                    "startColumn": 4,
+                    "startOffset": 84169,
+                    "endLine": 1069,
+                    "endColumn": 12,
+                    "endOffset": 84335
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1070,
+                    "startColumn": 4,
+                    "startOffset": 84340,
+                    "endLine": 1073,
+                    "endColumn": 12,
+                    "endOffset": 84609
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 84614,
+                    "endLine": 1076,
+                    "endColumn": 12,
+                    "endOffset": 84808
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 84813,
+                    "endColumn": 83,
+                    "endOffset": 84892
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1078,
+                    "startColumn": 4,
+                    "startOffset": 84897,
+                    "endColumn": 95,
+                    "endOffset": 84988
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1079,
+                    "startColumn": 4,
+                    "startOffset": 84993,
+                    "endColumn": 95,
+                    "endOffset": 85084
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1080,
+                    "startColumn": 4,
+                    "startOffset": 85089,
+                    "endColumn": 97,
+                    "endOffset": 85182
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 85187,
+                    "endColumn": 99,
+                    "endOffset": 85282
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1082,
+                    "startColumn": 4,
+                    "startOffset": 85287,
+                    "endColumn": 101,
+                    "endOffset": 85384
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1083,
+                    "startColumn": 4,
+                    "startOffset": 85389,
+                    "endColumn": 101,
+                    "endOffset": 85486
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1084,
+                    "startColumn": 4,
+                    "startOffset": 85491,
+                    "endColumn": 101,
+                    "endOffset": 85588
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1085,
+                    "startColumn": 4,
+                    "startOffset": 85593,
+                    "endColumn": 101,
+                    "endOffset": 85690
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1086,
+                    "startColumn": 4,
+                    "startOffset": 85695,
+                    "endColumn": 101,
+                    "endOffset": 85792
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1087,
+                    "startColumn": 4,
+                    "startOffset": 85797,
+                    "endColumn": 99,
+                    "endOffset": 85892
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1088,
+                    "startColumn": 4,
+                    "startOffset": 85897,
+                    "endColumn": 95,
+                    "endOffset": 85988
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1089,
+                    "startColumn": 4,
+                    "startOffset": 85993,
+                    "endColumn": 111,
+                    "endOffset": 86100
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1090,
+                    "startColumn": 4,
+                    "startOffset": 86105,
+                    "endColumn": 128,
+                    "endOffset": 86229
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1091,
+                    "startColumn": 4,
+                    "startOffset": 86234,
+                    "endColumn": 122,
+                    "endOffset": 86352
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1092,
+                    "startColumn": 4,
+                    "startOffset": 86357,
+                    "endColumn": 141,
+                    "endOffset": 86494
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1093,
+                    "startColumn": 4,
+                    "startOffset": 86499,
+                    "endColumn": 141,
+                    "endOffset": 86636
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1094,
+                    "startColumn": 4,
+                    "startOffset": 86641,
+                    "endColumn": 97,
+                    "endOffset": 86734
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1095,
+                    "startColumn": 4,
+                    "startOffset": 86739,
+                    "endColumn": 113,
+                    "endOffset": 86848
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 86853,
+                    "endColumn": 93,
+                    "endOffset": 86942
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 86947,
+                    "endColumn": 127,
+                    "endOffset": 87070
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 87075,
+                    "endColumn": 121,
+                    "endOffset": 87192
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 87197,
+                    "endColumn": 95,
+                    "endOffset": 87288
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 87293,
+                    "endColumn": 111,
+                    "endOffset": 87400
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 87405,
+                    "endColumn": 99,
+                    "endOffset": 87500
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 87505,
+                    "endColumn": 115,
+                    "endOffset": 87616
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 87621,
+                    "endColumn": 95,
+                    "endOffset": 87712
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 87717,
+                    "endColumn": 111,
+                    "endOffset": 87824
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 87829,
+                    "endColumn": 127,
+                    "endOffset": 87952
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 87957,
+                    "endColumn": 135,
+                    "endOffset": 88088
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 88093,
+                    "endColumn": 151,
+                    "endOffset": 88240
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 88245,
+                    "endColumn": 129,
+                    "endOffset": 88370
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 88375,
+                    "endColumn": 145,
+                    "endOffset": 88516
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 88521,
+                    "endColumn": 137,
+                    "endOffset": 88654
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 88659,
+                    "endColumn": 140,
+                    "endOffset": 88795
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 88800,
+                    "endColumn": 131,
+                    "endOffset": 88927
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 88932,
+                    "endColumn": 134,
+                    "endOffset": 89062
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 89067,
+                    "endColumn": 123,
+                    "endOffset": 89186
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 89191,
+                    "endColumn": 129,
+                    "endOffset": 89316
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 89321,
+                    "endColumn": 129,
+                    "endOffset": 89446
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1117,
+                    "startColumn": 4,
+                    "startOffset": 89451,
+                    "endColumn": 111,
+                    "endOffset": 89558
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 89563,
+                    "endColumn": 133,
+                    "endOffset": 89692
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 89697,
+                    "endColumn": 131,
+                    "endOffset": 89824
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1120,
+                    "startColumn": 4,
+                    "startOffset": 89829,
+                    "endColumn": 125,
+                    "endOffset": 89950
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1121,
+                    "startColumn": 4,
+                    "startOffset": 89955,
+                    "endColumn": 65,
+                    "endOffset": 90016
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1122,
+                    "startColumn": 4,
+                    "startOffset": 90021,
+                    "endColumn": 89,
+                    "endOffset": 90106
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 90111,
+                    "endColumn": 79,
+                    "endOffset": 90186
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1124,
+                    "startColumn": 4,
+                    "startOffset": 90191,
+                    "endColumn": 97,
+                    "endOffset": 90284
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1125,
+                    "startColumn": 4,
+                    "startOffset": 90289,
+                    "endColumn": 77,
+                    "endOffset": 90362
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1126,
+                    "startColumn": 4,
+                    "startOffset": 90367,
+                    "endColumn": 105,
+                    "endOffset": 90468
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1127,
+                    "startColumn": 4,
+                    "startOffset": 90473,
+                    "endColumn": 91,
+                    "endOffset": 90560
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1128,
+                    "startColumn": 4,
+                    "startOffset": 90565,
+                    "endColumn": 109,
+                    "endOffset": 90670
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1129,
+                    "startColumn": 4,
+                    "startOffset": 90675,
+                    "endLine": 1132,
+                    "endColumn": 12,
+                    "endOffset": 90841
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1133,
+                    "startColumn": 4,
+                    "startOffset": 90846,
+                    "endLine": 1136,
+                    "endColumn": 12,
+                    "endOffset": 91006
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1137,
+                    "startColumn": 4,
+                    "startOffset": 91011,
+                    "endColumn": 79,
+                    "endOffset": 91086
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1138,
+                    "startColumn": 4,
+                    "startOffset": 91091,
+                    "endColumn": 99,
+                    "endOffset": 91186
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1139,
+                    "startColumn": 4,
+                    "startOffset": 91191,
+                    "endColumn": 89,
+                    "endOffset": 91276
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1140,
+                    "startColumn": 4,
+                    "startOffset": 91281,
+                    "endColumn": 109,
+                    "endOffset": 91386
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1141,
+                    "startColumn": 4,
+                    "startOffset": 91391,
+                    "endColumn": 91,
+                    "endOffset": 91478
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1142,
+                    "startColumn": 4,
+                    "startOffset": 91483,
+                    "endColumn": 87,
+                    "endOffset": 91566
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1143,
+                    "startColumn": 4,
+                    "startOffset": 91571,
+                    "endColumn": 99,
+                    "endOffset": 91666
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1144,
+                    "startColumn": 4,
+                    "startOffset": 91671,
+                    "endColumn": 101,
+                    "endOffset": 91768
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1145,
+                    "startColumn": 4,
+                    "startOffset": 91773,
+                    "endColumn": 103,
+                    "endOffset": 91872
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1146,
+                    "startColumn": 4,
+                    "startOffset": 91877,
+                    "endColumn": 103,
+                    "endOffset": 91976
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1147,
+                    "startColumn": 4,
+                    "startOffset": 91981,
+                    "endColumn": 93,
+                    "endOffset": 92070
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1148,
+                    "startColumn": 4,
+                    "startOffset": 92075,
+                    "endColumn": 119,
+                    "endOffset": 92190
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1149,
+                    "startColumn": 4,
+                    "startOffset": 92195,
+                    "endColumn": 117,
+                    "endOffset": 92308
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1150,
+                    "startColumn": 4,
+                    "startOffset": 92313,
+                    "endColumn": 89,
+                    "endOffset": 92398
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1151,
+                    "startColumn": 4,
+                    "startOffset": 92403,
+                    "endColumn": 107,
+                    "endOffset": 92506
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1152,
+                    "startColumn": 4,
+                    "startOffset": 92511,
+                    "endColumn": 109,
+                    "endOffset": 92616
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1153,
+                    "startColumn": 4,
+                    "startOffset": 92621,
+                    "endColumn": 111,
+                    "endOffset": 92728
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1154,
+                    "startColumn": 4,
+                    "startOffset": 92733,
+                    "endLine": 1156,
+                    "endColumn": 12,
+                    "endOffset": 92903
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1157,
+                    "startColumn": 4,
+                    "startOffset": 92908,
+                    "endColumn": 115,
+                    "endOffset": 93019
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1158,
+                    "startColumn": 4,
+                    "startOffset": 93024,
+                    "endColumn": 85,
+                    "endOffset": 93105
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1159,
+                    "startColumn": 4,
+                    "startOffset": 93110,
+                    "endColumn": 99,
+                    "endOffset": 93205
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1160,
+                    "startColumn": 4,
+                    "startOffset": 93210,
+                    "endColumn": 111,
+                    "endOffset": 93317
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1161,
+                    "startColumn": 4,
+                    "startOffset": 93322,
+                    "endColumn": 66,
+                    "endOffset": 93384
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1162,
+                    "startColumn": 4,
+                    "startOffset": 93389,
+                    "endColumn": 113,
+                    "endOffset": 93498
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1163,
+                    "startColumn": 4,
+                    "startOffset": 93503,
+                    "endColumn": 67,
+                    "endOffset": 93566
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1164,
+                    "startColumn": 4,
+                    "startOffset": 93571,
+                    "endColumn": 115,
+                    "endOffset": 93682
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1165,
+                    "startColumn": 4,
+                    "startOffset": 93687,
+                    "endColumn": 131,
+                    "endOffset": 93814
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1166,
+                    "startColumn": 4,
+                    "startOffset": 93819,
+                    "endColumn": 115,
+                    "endOffset": 93930
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1167,
+                    "startColumn": 4,
+                    "startOffset": 93935,
+                    "endColumn": 68,
+                    "endOffset": 93999
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1168,
+                    "startColumn": 4,
+                    "startOffset": 94004,
+                    "endColumn": 94,
+                    "endOffset": 94094
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1169,
+                    "startColumn": 4,
+                    "startOffset": 94099,
+                    "endColumn": 114,
+                    "endOffset": 94209
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1170,
+                    "startColumn": 4,
+                    "startOffset": 94214,
+                    "endColumn": 112,
+                    "endOffset": 94322
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1171,
+                    "startColumn": 4,
+                    "startOffset": 94327,
+                    "endColumn": 98,
+                    "endOffset": 94421
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1172,
+                    "startColumn": 4,
+                    "startOffset": 94426,
+                    "endColumn": 119,
+                    "endOffset": 94541
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1173,
+                    "startColumn": 4,
+                    "startOffset": 94546,
+                    "endColumn": 121,
+                    "endOffset": 94663
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1174,
+                    "startColumn": 4,
+                    "startOffset": 94668,
+                    "endColumn": 110,
+                    "endOffset": 94774
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1175,
+                    "startColumn": 4,
+                    "startOffset": 94779,
+                    "endColumn": 100,
+                    "endOffset": 94875
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1176,
+                    "startColumn": 4,
+                    "startOffset": 94880,
+                    "endColumn": 104,
+                    "endOffset": 94980
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1177,
+                    "startColumn": 4,
+                    "startOffset": 94985,
+                    "endColumn": 99,
+                    "endOffset": 95080
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1178,
+                    "startColumn": 4,
+                    "startOffset": 95085,
+                    "endColumn": 117,
+                    "endOffset": 95198
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1179,
+                    "startColumn": 4,
+                    "startOffset": 95203,
+                    "endColumn": 90,
+                    "endOffset": 95289
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1180,
+                    "startColumn": 4,
+                    "startOffset": 95294,
+                    "endColumn": 122,
+                    "endOffset": 95412
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1181,
+                    "startColumn": 4,
+                    "startOffset": 95417,
+                    "endColumn": 99,
+                    "endOffset": 95512
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1182,
+                    "startColumn": 4,
+                    "startOffset": 95517,
+                    "endColumn": 103,
+                    "endOffset": 95616
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1183,
+                    "startColumn": 4,
+                    "startOffset": 95621,
+                    "endColumn": 95,
+                    "endOffset": 95712
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1184,
+                    "startColumn": 4,
+                    "startOffset": 95717,
+                    "endColumn": 87,
+                    "endOffset": 95800
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1185,
+                    "startColumn": 4,
+                    "startOffset": 95805,
+                    "endColumn": 105,
+                    "endOffset": 95906
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1186,
+                    "startColumn": 4,
+                    "startOffset": 95911,
+                    "endColumn": 91,
+                    "endOffset": 95998
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1187,
+                    "startColumn": 4,
+                    "startOffset": 96003,
+                    "endColumn": 91,
+                    "endOffset": 96090
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1188,
+                    "startColumn": 4,
+                    "startOffset": 96095,
+                    "endColumn": 113,
+                    "endOffset": 96204
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1189,
+                    "startColumn": 4,
+                    "startOffset": 96209,
+                    "endColumn": 89,
+                    "endOffset": 96294
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1190,
+                    "startColumn": 4,
+                    "startOffset": 96299,
+                    "endColumn": 83,
+                    "endOffset": 96378
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1191,
+                    "startColumn": 4,
+                    "startOffset": 96383,
+                    "endColumn": 53,
+                    "endOffset": 96432
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1192,
+                    "startColumn": 4,
+                    "startOffset": 96437,
+                    "endColumn": 121,
+                    "endOffset": 96554
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1193,
+                    "startColumn": 4,
+                    "startOffset": 96559,
+                    "endColumn": 83,
+                    "endOffset": 96638
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1194,
+                    "startColumn": 4,
+                    "startOffset": 96643,
+                    "endColumn": 119,
+                    "endOffset": 96758
+                },
+                "from": {
+                    "file": "E:\\Java\\Android\\clone\\KuaiHu-master\\asyncHttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]

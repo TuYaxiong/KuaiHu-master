@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--调节布局-->
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+<!--渲染背景色的自定义View-->
+    <krelve.app.kuaihu.view.RevealBackgroundView
+        android:id="@+id/revealBackgroundView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+<!--垂直的LinearLayout布局,允许其内部的view随Srcoll有想要的滚动行为-->
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:fitsSystemWindows="true"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <!--相关的布局xml属性：app：layout_scrollFlags提供他们想要的滚动行为-->
+        <!--可折叠的Toolbar布局-->
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:collapsedTitleTextAppearance="@style/MyToolbarTextStyle"
+            app:contentScrim="?attr/colorPrimaryDark"
+            app:expandedTitleMarginStart="5dp"
+            app:expandedTitleTextAppearance="@style/MyToolbarTextStyle"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+            <!--滚动,向上收缩时view收缩,但Toolbar固定在上面-->
+
+            <ImageView
+                android:id="@+id/iv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop"
+                app:layout_collapseMode="parallax"
+                app:layout_collapseParallaxMultiplier="0.7" />
+            <!--ImageView也同时滚动有视差效果0-1-->
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin" />
+            <!--布局完全收缩后Toolbar仍可留在屏幕上-->
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <!--能WebView加滚动条 behavior表示AppBarLayou也可同时滚动-->
+
+        <WebView
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></WebView>
+    </android.support.v4.widget.NestedScrollView>
+</android.support.design.widget.CoordinatorLayout>
+
